@@ -79,7 +79,7 @@ console.log('year',year); */
     <p>Calculate your simple interest Easily</p>
 
     <div className='mt-5 flex-column rounded shadow bg-warning d-flex justify-content-center align-items-center p-4 '>
-<h2 className='fs-1 fw-bolder'>{interest}</h2>
+<h2 className='fs-1 fw-bolder'> ₹{interest}</h2>
 <p>Total simple interest</p>
     </div>
     <form className='mt-3'>
